@@ -1,0 +1,19 @@
+{
+  "name": "proyecto-resposive",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Clemenshemmerling/proyecto-responsive.git"
+  },
+  "author": "Clemens Hemmerling",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Clemenshemmerling/proyecto-responsive/issues"
+  },
+  "homepage": "https://github.com/Clemenshemmerling/proyecto-responsive#readme"
+}
